@@ -1,5 +1,0 @@
-we're use this qr code dataset, containing: low resolution image (50,50), high resolution image (200, 200), 
-					    and original resolution image
-Total image per folder containing 4986 Image
-here is the link
-https://drive.google.com/drive/folders/1ILmToQ2H4k0g3K3ws8n7rOm37RgTIOxK?usp=sharing
